@@ -1,5 +1,5 @@
 class Rainbow
-  include Enumberable
+  include Enumerable
   def each
     yield "red"
     yield "orange"
